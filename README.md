@@ -1,6 +1,6 @@
 # 🔧 Frida Android Challenge Series
 
-All the credits for creating the lab go to [DERE-ad2001 on GitHub](https://github.com/DERE-ad2001/Frida-Labs).
+All the credits for creating the labs go to [DERE-ad2001 on GitHub](https://github.com/DERE-ad2001/Frida-Labs).
 
 Welcome to the **Frida Android Challenge Series** – a lightweight set of Android APKs designed to help you learn and experiment with **Frida** for dynamic instrumentation and mobile app security.
 
